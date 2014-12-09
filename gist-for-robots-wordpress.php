@@ -1,8 +1,8 @@
 <?php
 /**
-* Plugin Name: Gist for Robots Wordpress Plugin
+* Plugin Name: Gist for Robots WordPress Plugin
 * Plugin URI: https://github.com/pedroelsner/gist-for-robots-wordpress
-* Description: Makes embedding github.com gists SEO friendily and super awesomely easy.
+* Description: Makes embedding github.com gists SEO friendly and super awesomely easy.
 * Usage: Drop in the embed code from github between the gist shortcode. [gist]<script src="http://gist.github.com/00000.js?file=file.txt"></script>[/gist] or [gist id=00000 file=file.txt]
 * Version: 1.3.1
 * Author: Pedro Elsner
